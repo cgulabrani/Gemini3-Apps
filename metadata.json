@@ -1,0 +1,5 @@
+{
+  "name": "WealthVision AI",
+  "description": "An advanced AI-powered stock portfolio forecaster that leverages the Gemini 3 Pro model to predict 5-year returns based on two decades of historical trends and growth analysis.",
+  "requestFramePermissions": []
+}
